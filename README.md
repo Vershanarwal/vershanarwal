@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ vershanarwal@gmail.com For Project . 😊😊
 
-- 🔭 **I’m currently working on:** Learning CS languages
-- 🌱 **I’m currently learning:** python
+- 🔭 **I’m currently working on:** Projects 
+- 🌱 **I’m currently learning:** langauges
 - 💬 **Ask me about:**  Tech Support
 - 📫 **How to reach me:** vershanarwal@gmail.com
 - 😄 **Pronouns:** versha
