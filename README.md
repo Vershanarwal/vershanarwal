@@ -1,23 +1,23 @@
-👋 Hi, I'm Versha Narwal
-Building skills in Data, Technology & Problem Solving
+#👋 Hi, I'm Versha Narwal
+###Building skills in Data, Technology & Problem Solving
 
 Email Me 👉 ✉️ vershanarwal@gmail.com For Project . 😊😊
 
-📌 About Me
+##📌 About Me
 🎓 B.Sc. Computer Science Student
 💻 Building real-world projects using Power BI, Python, SQL and Web Technologies
 📚 Currently learning Data Analytics, SQL and Python
 🚀 Interested in solving real-world problems with technology
 🌱 Always learning something new
 
-💬 Ask Me About
+##💬 Ask Me About
 Power BI
 Python
 SQL
 Excel
 HTML, CSS & JavaScript
 
-🎯 Goal
+##🎯 Goal
 Build practical projects, strengthen problem-solving skills, and continuously grow as a technology professional.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Versha Narwal) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vershanarwal16@gmail.com) 
@@ -41,7 +41,7 @@ Build practical projects, strengthen problem-solving skills, and continuously gr
 
 
 ---
-⭐ "Learning, building, and improving one project at a time."
+##⭐ "Learning, building, and improving one project at a time."
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
