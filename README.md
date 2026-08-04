@@ -1,35 +1,47 @@
-# 💫 Hi 👋, I'm Versha Narwal
-**A passionate Data Analyst
+👋 Hi, I'm Versha Narwal
+Building skills in Data, Technology & Problem Solving
 
 Email Me 👉 ✉️ vershanarwal@gmail.com For Project . 😊😊
 
-- 🔭 **I’m currently working on:** Projects 
-- 🌱 **I’m currently learning:** langauges
-- 💬 **Ask me about:**  Tech Support
-- 📫 **How to reach me:** vershanarwal@gmail.com
-- 😄 **Pronouns:** versha
-- ⚡ **Fun fact:** Always building,always learning
+📌 About Me
+🎓 B.Sc. Computer Science Student
+💻 Building real-world projects using Power BI, Python, SQL and Web Technologies
+📚 Currently learning Data Analytics, SQL and Python
+🚀 Interested in solving real-world problems with technology
+🌱 Always learning something new
 
+💬 Ask Me About
+Power BI
+Python
+SQL
+Excel
+HTML, CSS & JavaScript
+
+🎯 Goal
+Build practical projects, strengthen problem-solving skills, and continuously grow as a technology professional.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Versha Narwal) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vershanarwal16@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 💻 Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vashunarwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vashunarwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vashunarwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vashunarwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vashunarwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vashunarwal&icon=0&color=0)](https://visitcount.itsvg.in)
+⭐ "Learning, building, and improving one project at a time."
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
