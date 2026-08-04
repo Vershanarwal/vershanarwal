@@ -1,7 +1,8 @@
-#👋 Hi, I'm Versha Narwal
-###Building skills in Data, Technology & Problem Solving
+# 👋 Hi, I'm Versha Narwal
 
-Email Me 👉 ✉️ vershanarwal@gmail.com For Project . 😊😊
+### 🌟 Building Skills in Data, Technology & Problem Solving
+
+📧 Email Me👉 ✉️ vershanarwal@gmail.com 
 
 ##📌 About Me
 🎓 B.Sc. Computer Science Student
