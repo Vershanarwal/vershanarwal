@@ -36,9 +36,9 @@ Build practical projects, strengthen problem-solving skills, and continuously gr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vashunarwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vashunarwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vashunarwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=vershanarwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vershanarwal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vershanarwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
