@@ -23,6 +23,10 @@ Build practical projects, strengthen problem-solving skills, and continuously gr
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Versha Narwal) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vershanarwal16@gmail.com) 
 
+#### My Portfolio
+
+🌐 **Portfolio Website:** [Visit My Portfolio](https://vershanarwal.github.io/portfolio/)
+
 ## 💻 Tech Stack
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
