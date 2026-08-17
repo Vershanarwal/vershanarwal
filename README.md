@@ -25,7 +25,7 @@ Build practical projects, strengthen problem-solving skills, and continuously gr
 
 #### My Portfolio
 
-🌐 **Portfolio Website:** [Visit My Portfolio](https://vershanarwal.github.io/portfolio/)
+🌐 **Portfolio Website:** [Visit My Portfolio](https://vershanarwal.github.io/portfolio-website/)
 
 ## 💻 Tech Stack
 
