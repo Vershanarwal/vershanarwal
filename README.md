@@ -21,7 +21,7 @@ HTML, CSS & JavaScript
 ## 🎯 Goal
 Build practical projects, strengthen problem-solving skills, and continuously grow as a technology professional.
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Versha Narwal) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vershanarwal16@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VershaNarwal) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vershanarwal16@gmail.com) 
 
 #### My Portfolio
 
